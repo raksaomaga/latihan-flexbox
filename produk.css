@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 24px; }
+.produk-list { display: flex; justify-content: space-between; gap: 20px; }
+.kartu { display: flex; flex-direction: column; align-items: center; flex: 1; padding: 20px; border: 1px solid #ccd6e0; border-radius: 8px; }
+.harga { color: #176b91; font-weight: bold; }
+button { padding: 8px 18px; background: #3498db; color: white; border: 0; border-radius: 5px; }
